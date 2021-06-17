@@ -11,22 +11,40 @@ Paper list for Spiking Neural Networks (SNN). Spiking neural networks (SNNs) are
 3. Taherkhani A, Belatreche A, Li Y, et al. A review of learning in biologically plausible spiking neural networks[J]. Neural Networks, 2020, 122: 253-272. [[Paper](http://irep.ntu.ac.uk/id/eprint/38467/1/1213346_Taherkhani.pdf)] 
 4. Bouvier M, Valentian A, Mesquida T, et al. Spiking neural networks hardware implementations and challenges: A survey[J]. ACM Journal on Emerging Technologies in Computing Systems (JETC), 2019, 15(2): 1-35. [[Paper](https://arxiv.org/ftp/arxiv/papers/2005/2005.01467.pdf)] 
 
+## Learning Methods for SNN: 
+1. Huh D, Sejnowski T J. Gradient descent for spiking neural networks[C]//Proceedings of the 32nd International Conference on Neural Information Processing Systems. 2018: 1440-1450. [[Paper](https://dl.acm.org/doi/pdf/10.5555/3326943.3327075)]
+2. 
 
 
 
-## Year 2021 
 
 
-## Year 2020
 
 
-## Year 2019 
 
 
-## Year 2018
 
 
-## Year 2017 
 
 
-## Year Before 2017 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
