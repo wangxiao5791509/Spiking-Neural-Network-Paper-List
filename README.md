@@ -1,5 +1,5 @@
 # Spiking-Neural-Network-Paper-List
-Paper list for Spiking Neural Networks (SNN)
+Paper list for Spiking Neural Networks (SNN). Spiking neural networks (SNNs) are artificial neural networks that more closely mimic natural neural networks. In addition to neuronal and synaptic state, SNNs incorporate the concept of time into their operating model. The idea is that neurons in the SNN do not transmit information at each propagation cycle (as it happens with typical multi-layer perceptron networks), but rather transmit information only when a membrane potential – an intrinsic quality of the neuron related to its membrane electrical charge – reaches a specific value, called the threshold. When the membrane potential reaches the threshold, the neuron fires, and generates a signal that travels to other neurons which, in turn, increase or decrease their potentials in response to this signal. A neuron model that fires at the moment of threshold crossing is also called a spiking neuron model. [[wikipedia](https://en.wikipedia.org/wiki/Spiking_neural_network)]
 
 ![image](https://github.com/wangxiao5791509/Spiking-Neural-Network-Paper-List/blob/main/MLP-ANN-SNN.png)
 
