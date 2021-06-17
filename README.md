@@ -1,6 +1,9 @@
 # Spiking-Neural-Network-Paper-List
 Paper list for Spiking Neural Networks (SNN)
 
+![image](https://github.com/wangxiao5791509/Spiking-Neural-Network-Paper-List/blob/main/MLP-ANN-SNN.png)
+
+
 ## Survey/Review Papers: 
 
 1. Wang, Xiangwen, Xianghong Lin, and Xiaochao Dang. "Supervised learning in spiking neural networks: A review of algorithms and evaluations." Neural Networks 125 (2020): 258-280. [[Paper](https://drive.google.com/file/d/1_q5Yff4p0dr8FFLFYwSz2YG8ZoBnYh4N/view?usp=sharing)] 
