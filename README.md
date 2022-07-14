@@ -4,6 +4,10 @@ Paper list for Spiking Neural Networks (SNN). Spiking neural networks (SNNs) are
 ![image](https://github.com/wangxiao5791509/Spiking-Neural-Network-Paper-List/blob/main/MLP-ANN-SNN.png)
 
 
+## Year 2022 
+* Chen, Yanqi, et al. "**State Transition of Dendritic Spines Improves Learning of Sparse Spiking Neural Networks**." International Conference on Machine Learning. PMLR, 2022. [[Paper](https://proceedings.mlr.press/v162/chen22ac/chen22ac.pdf)]
+
+
 ## Survey | Review Papers: 
 
 1. Wang, Xiangwen, Xianghong Lin, and Xiaochao Dang. "Supervised learning in spiking neural networks: A review of algorithms and evaluations." Neural Networks 125 (2020): 258-280. [[Paper](https://drive.google.com/file/d/1_q5Yff4p0dr8FFLFYwSz2YG8ZoBnYh4N/view?usp=sharing)] 
